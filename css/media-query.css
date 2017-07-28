@@ -174,7 +174,7 @@ nav ul li:last-child {
 border: none;
 }
 
-footer h2 {
+main h2 {
 font-size: 55px;
 }
 
@@ -368,7 +368,7 @@ h4 {
 	line-height: 35px;
 }
 
-footer h2 {
+main h2 {
 line-height: 60px;
 padding-bottom: 20px;
 font-size: 35px;
@@ -563,40 +563,6 @@ line-height: 30px;
 
 .footer {
 height: 250px;
-}
-
-
-}
-
-/*.footer .contact_icons  {
-	margin-top: 0px;
-}
-
-.footer .contact_icons ul li a {
-color: #000;
-font-size: 30px;
-color: #5F7F19;
-padding: 0px;
-}
-
-.footermenu {
-	margin-top: 0px;
-	padding-bottom: 2px;
-}
-
-.subscribe {
-margin-bottom: 0px;
-margin-top: 0px;
-}
-
-.footermenu li a {
-font-size: 16px;
-}
-
-.footertype p {
-font-size: 16px;
-}*/
-
-
+	}
 }
 
