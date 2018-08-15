@@ -546,6 +546,11 @@ ul li {
 	margin-bottom: 25px;
 }
 
+.contact_icons ul li a {
+  letter-spacing: 20px;
+	font-size:40px;
+}
+	
 .subscribe {
 margin: 0;
 }
