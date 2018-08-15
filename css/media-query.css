@@ -424,15 +424,22 @@ height: 100vh;
 }
 
 .paraghraph {	
-font-size: 100%;
-padding: 0;
-position: absolute; 
-bottom: 0;
-padding-bottom: 35px;
+	font-size: 100%;
+	padding: 0;
+	position: absolute; 
+	bottom: 0;
+	padding-bottom: 0px;
 }
-
-
-
+	
+.dreamhomebutton {
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 5px 5px;
+    font-size: 20px;
+    margin-bottom: 5px;
+    width: 200px;
+    letter-spacing: 1px;
+}
 /*--------portfolio-----------*/
 
 .info {
